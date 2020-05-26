@@ -1,2 +1,0 @@
-# karola
-Created with CodeSandbox
